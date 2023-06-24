@@ -43,8 +43,6 @@
 
 ![](assets/supermedgpt-performances.png)
 
-SuperMedGPT模型在领域数据上的表现超过了原始模型。这里仅放出了SuperMedGPT评测指标，原始模型指标很快更新。
-
 ## 部署
 
 - 主界面
