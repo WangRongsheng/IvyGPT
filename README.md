@@ -20,8 +20,6 @@
 
 ## 训练
 
-# 训练
-
 <details>
   <summary>实验环境</summary>
     
@@ -34,7 +32,7 @@
 |Loss|![](assets/sft.png)|![](assets/rw.png)|![](assets/ppo.png)|
 |Time|4.5小时|40分钟|33小时|
 
-# 评估
+## 评估
 
 <details>
   <summary>关于Rouge</summary>
@@ -47,7 +45,7 @@
 
 SuperMedGPT模型在领域数据上的表现超过了原始模型。这里仅放出了SuperMedGPT评测指标，原始模型指标很快更新。
 
-# 部署
+## 部署
 
 - 主界面
 ![](assets/主界面.png)
@@ -68,3 +66,16 @@ SuperMedGPT模型在领域数据上的表现超过了原始模型。这里仅放
 # 免责声明
 
 本项目相关资源仅供学术研究之用，严禁用于商业用途。使用涉及第三方代码的部分时，请严格遵循相应的开源协议。模型生成的内容受模型计算、随机性和量化精度损失等因素影响，本项目无法对其准确性作出保证。即使本项目模型输出符合医学事实，也不能被用作实际医学诊断的依据。对于模型输出的任何内容，本项目不承担任何法律责任，亦不对因使用相关资源和输出结果而可能产生的任何损失承担责任。
+
+# 引用
+
+如果您觉得此项目有帮助，请引用：
+
+```bibtex
+@Misc{ChangChunTeng,
+  title = {ChangChunTeng},
+  author = {wangrongsheng, Tao Tan},
+  howpublished = {\url{https://github.com/wangrongsheng/ChangChunTeng}},
+  year = {2023}
+}
+```
