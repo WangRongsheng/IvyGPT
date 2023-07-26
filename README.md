@@ -1,4 +1,6 @@
 > 在线体验：https://lvygpt.com/
+>
+> 开源版本：https://huggingface.co/spaces/wangrongsheng/IvyGPT
 
 # IvyGPT 💊 产生最贴近真实医生问诊效果的医疗大语言模型
 
