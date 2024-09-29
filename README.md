@@ -1,7 +1,3 @@
-> 在线体验：https://lvygpt.com/
->
-> 开源版本：https://huggingface.co/spaces/wangrongsheng/IvyGPT
-
 # IvyGPT 💊 产生最贴近真实医生问诊效果的医疗大语言模型
 
 近期在通用领域中出现的大语言模型（LLMs），例如ChatGPT，在遵循指令和产生类人响应方面表现出了显著的成功。然而，这样的大型语言模型并没有被广泛应用于医学领域，导致响应的准确性较差，无法提供关于医学诊断、药物等合理的建议。为了应对这一挑战，我们提出了IvyGPT，这是一个医疗大语言模型，它在高质量的医学问答数据上进行了监督微调，并使用人类反馈的强化学习进行了训练。该项目的特性包括：
@@ -51,10 +47,12 @@
 如果您觉得此项目有帮助，请引用：
 
 ```bibtex
-@Misc{IvyGPT,
-  title = {IvyGPT},
-  author = {wangrongsheng, Tao Tan},
-  howpublished = {\url{https://github.com/wangrongsheng/IvyGPT}},
-  year = {2023}
+@inproceedings{wang2023ivygpt,
+  title={Ivygpt: Interactive chinese pathway language model in medical domain},
+  author={Wang, Rongsheng and Duan, Yaofei and Lam, ChanTong and Chen, Jiexin and Xu, Jiangsheng and Chen, Haoming and Liu, Xiaohong and Pang, Patrick Cheong-Iao and Tan, Tao},
+  booktitle={CAAI International Conference on Artificial Intelligence},
+  pages={378--382},
+  year={2023},
+  organization={Springer}
 }
 ```
